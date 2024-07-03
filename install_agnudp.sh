@@ -13,19 +13,19 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="vpn.khaledagn.com"
+DOMAIN="teamworkvpn.xyz"
 
 # PROTOCOL
 PROTOCOL="udp"
 
 # UDP PORT
-UDP_PORT=":36712"
+UDP_PORT=":5566"
 
 # OBFS
-OBFS="agnudp"
+OBFS="hw"
 
 # PASSWORDS
-PASSWORD="agnudp"
+PASSWORD="hwudp"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
